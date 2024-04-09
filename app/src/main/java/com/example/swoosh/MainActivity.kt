@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.swoosh.databinding.ActivityMainBinding
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : Baseactivity() {
     lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
