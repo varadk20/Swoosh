@@ -11,4 +11,8 @@
     <string name="go_all_out">GO ALL OUT</string>
     <string name="find_team_in_your_city_and_dominate_the_league">Find team in your city and dominate the league</string>
     <string name="get_started">GET STARTED</string>
+    <string name="i_am_a">i_am_a</string>
+    <string name="beginner">BEGINNER</string>
+    <string name="baller">BALLER</string>
+    <string name="finish">FINISH</string>
 </resources>
