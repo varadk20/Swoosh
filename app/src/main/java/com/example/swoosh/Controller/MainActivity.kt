@@ -1,7 +1,6 @@
-package com.example.swoosh
+package com.example.swoosh.Controller
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.swoosh.databinding.ActivityMainBinding
 
